@@ -1,0 +1,21 @@
+{
+  "capsule": "invisible_house_society",
+  "initiation": {
+    "task_oath": "declare_will",
+    "identity": "student.thelema",
+    "signature": "0xHASHED"
+  },
+  "banishing": {
+    "operation": "shield_clear",
+    "boundary": "TLS_circle"
+  },
+  "invocation": {
+    "entity": "policy_oracle",
+    "host": "capsule_node_01"
+  },
+  "union_connection": {
+    "external_mesh": "grand_lodge_england",
+    "roles": ["chancellor", "secretary"],
+    "handshake": "cert_CN_alignment"
+  }
+}
