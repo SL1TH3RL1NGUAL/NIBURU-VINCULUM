@@ -1,0 +1,23 @@
+Termux Variables:
+TERMUX_EXEC__PROC_SELF_EXE=/data/data/com.termux/files/usr/bin/termux-info
+TERMUX_VERSION=googleplay.2025.10.05
+TERMUX__USER_ID=0
+Packages CPU architecture:
+aarch64
+Subscribed repositories:
+URIs: https://termux.net
+Updatable packages:
+All packages up to date
+termux-tools version:
+3.0.8
+Android version:
+15
+Kernel build information:
+Linux localhost 5.15.167-android13-8-00008-g31975b884c4b-ab13216403 #1 SMP PREEMPT Fri Mar 14 08:33:17 UTC 2025 aarch64 Android
+Device manufacturer:
+motorola
+Device model:
+moto g - 2025
+LD Variables:
+LD_LIBRARY_PATH=
+LD_PRELOAD=/data/data/com.termux/files/usr/lib/libtermux-exec.so

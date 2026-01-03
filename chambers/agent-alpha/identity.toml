@@ -1,0 +1,13 @@
+[id]
+name        = "agent-alpha"
+type        = "capsule-agent"
+backbone    = "blackcorp.me"
+backbone_id = "blackcorp-backbone"
+
+[keys]
+ssh_public  = "PASTE_CONTENTS_OF_agentalpha_ssh.pub_HERE"
+sign_public = "PASTE_CONTENTS_OF_agentalpha_sign.pub_HERE"
+
+[constraints]
+jurisdiction = "digital-ops-only"
+owner        = "luciio"

@@ -1,0 +1,7 @@
+% Define ENU basis vectors
+east  = [1; 0; 0];
+north = [0; 1; 0];
+up    = [0; 0; 1];
+
+% Example: signal vector in ENU
+signal_ENU = 0.8*east + 0.6*north + 0.2*up;

@@ -1,0 +1,11 @@
+{
+  "peer_id": "12D3KooWQsuzdk3jtHbGFFKpHrNNU...",
+  "capsulemanifestcid": "QmcwsqD5DgFyp22T6NEs5QPRBdtZYeMeExe743CGMsQgPG",
+  "origin_anchor": "Jachin",
+  "conservancy_layer": "Boaz",
+  "identityhash": "SHA256(capsuleidentity)",
+  "parentcapsule": "12D3KooWQ... (optional)",
+  "status": "active",
+  "mesh_layer": "primary",
+  "accepting_siblings": true
+}

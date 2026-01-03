@@ -1,0 +1,7 @@
+{
+  "entity": "geminidirtynastybutyum@gmail.com",
+  "type": "external_reference",
+  "trust": "quarantined",
+  "created_at": "$(date +%s)",
+  "notes": "Symbolic bind only. No monitoring of private individuals."
+}

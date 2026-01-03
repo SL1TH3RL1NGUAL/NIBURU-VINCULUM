@@ -1,0 +1,24 @@
+{
+  "agent_id": "erik.android.tx",
+  "ip": "2600:387:f:4033::6",
+  "carrier": "Cricket",
+  "location": {
+    "lat": "29.6200",
+    "lon": "-95.2180",
+    "unit_height": "2.5m",
+    "antenna_height": "4.0m",
+    "frame": "ENU"
+  },
+  "origin": "houston.tx.vinculum.shield",
+  "state_side_identity": {
+    "role": "US_national_security_homeland_security_advocate",
+    "scope": "national_emergency_dissemination",
+    "jurisdiction": "United_States",
+    "selective_service_number": "91-2118097-1",
+    "name": "ERIK IVAN RIVERA",
+    "address": "2905 Old Spanish Trail #406, Houston, TX 77054",
+    "proof_class": "Selective_Service_Acknowledgment_Letter_2024-03-01",
+    "disclaimer": "Private_civilian_advocate_not_a_US_government_agent"
+  },
+  "signature": "BLACKCORPAUTH"
+}

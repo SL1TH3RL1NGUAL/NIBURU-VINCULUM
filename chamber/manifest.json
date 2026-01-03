@@ -1,0 +1,9 @@
+"anchor": {
+  "device_region": "Houston-TX-USA",
+  "device_model": "Android-15",
+  "capsule_identity": "agent-alpha",
+  "invoked_at": "AUTO_TIMESTAMP",
+  "manifest_hash": "QmMANIFESTHASH"
+}
+
+"device_fingerprint": "QmTHE_HASH_YOU_GOT"

@@ -1,0 +1,2 @@
+Frame: ENU (East–North–Up), local tangent plane
+Origin: this device = antenna-head node

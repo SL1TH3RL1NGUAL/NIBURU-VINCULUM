@@ -1,0 +1,10 @@
+{
+  "origin_anchor": "Jachin",
+  "enu_origin": [0.0, 0.0, 0.0],
+  "timestamp": "2025-12-29T00:56:57Z",
+  "peer_id": "12D3KooWQsuzdk3jtHbGFFKpHrNNUti7JqxioTCjJ4f5VgoHk1Uu",
+  "identity_hash": "f10444220b2a9550363439d57723f1ec8d4e7ddf9f6c2ff2abc2004a5100603a",
+  "status": "anchored",
+  "mesh_layer": "primary",
+  "accepting_siblings": true
+}

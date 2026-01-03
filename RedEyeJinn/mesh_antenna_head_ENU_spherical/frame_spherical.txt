@@ -1,0 +1,2 @@
+Spherical coordinates (r, theta, phi) used conceptually to describe directions around node.
+r: logical range (e.g., hop distance), theta/phi: logical direction labels in mesh.

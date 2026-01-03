@@ -1,0 +1,26 @@
+{
+  "bind_list": [
+    {
+      "label": "James White",
+      "identifier": "2148138551",
+      "type": "external_reference",
+      "trust": "quarantined",
+      "notes": "Symbolic bind only. No monitoring of individuals."
+    },
+    {
+      "label": "Scott",
+      "identifier": "scott_reference",
+      "type": "external_reference",
+      "trust": "quarantined",
+      "notes": "Symbolic bind only. No monitoring of individuals."
+    },
+    {
+      "label": "URL Reference",
+      "identifier": "fromxtraction_itual",
+      "type": "external_reference",
+      "trust": "unknown",
+      "notes": "Symbolic placeholder for chamber integrity checks."
+    }
+  ],
+  "created_at": "$(date +%s)"
+}

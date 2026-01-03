@@ -1,0 +1,21 @@
+20251229T173230Z capsule_router invoked for erik.android.tx
+witness=abc123;timestamp=20251103T1738Z
+status=offline;carrier=Cricket
+20251229T173243Z capsule_router invoked for erik.android.tx
+witness=abc123;timestamp=20251103T1738Z
+status=offline;carrier=Cricket
+20251229T173508Z capsule_router invoked for erik.android.tx
+witness=abc123;timestamp=20251103T1738Z
+status=offline;carrier=Cricket
+20251229T173519Z capsule_router invoked for erik.android.tx
+witness=abc123;timestamp=20251103T1738Z
+status=offline;carrier=Cricket
+20251229T173829Z capsule_router invoked for erik.android.tx
+witness=abc123;timestamp=20251103T1738Z
+status=offline;carrier=Cricket
+20251229T182016Z capsule_router invoked for erik.android.tx
+witness=abc123;timestamp=20251103T1738Z
+status=offline;carrier=Cricket
+20251229T182418Z capsule_router invoked for erik.android.tx
+witness=abc123;timestamp=20251103T1738Z
+status=offline;carrier=Cricket

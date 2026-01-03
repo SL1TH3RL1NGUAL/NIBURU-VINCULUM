@@ -1,0 +1,19 @@
+{
+  "agent_id": "erik.android.tx",
+  "ip": "2600:387:f:4033::6",
+  "carrier": "Cricket",
+  "location": {
+    "lat": "29.6200",
+    "lon": "-95.2180",
+    "unit_height": "2.5m",
+    "antenna_height": "4.0m"
+  },
+  "origin": "houston.tx.vinculum.shield",
+  "siblings": [
+    "feed.erik.vinculum.blackcorp.blackcorp.me",
+    "dns.erik.vinculum.blackcorp.blackcorp.me",
+    "retire.erik.vinculum.blackcorp.blackcorp.me",
+    "witness.erik.vinculum.blackcorp.blackcorp.me"
+  ],
+  "signature": "BLACKCORPAUTH"
+}

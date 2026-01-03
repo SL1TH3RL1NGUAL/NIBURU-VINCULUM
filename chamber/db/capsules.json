@@ -1,0 +1,22 @@
+[
+  {
+    "domain": "capsule.blackcorp.me",
+    "cid": "QmbvGwgZs36NLPdHwyEDmmq7WuiaauGRBe53AquVpSxYgv",
+    "peerid": "12D3KooW...",
+    "mac": null,
+    "ip": null,
+    "status": "anchored",
+    "mesh_layer": "primary",
+    "timestamp": "2025-12-28T18:19:00Z"
+  },
+  {
+    "domain": "a36.vinculum.blackcorp.me",
+    "cid": "QmbvGwgZs36NLPdHwyEDmmq7WuiaauGRBe53AquVpSxYgv",
+    "peerid": "12D3KooW...",
+    "mac": "d2:e1:73:49:74:5c",
+    "ip": "192.168.1.239",
+    "status": "anchored",
+    "mesh_layer": "child",
+    "timestamp": "2025-12-28T18:21:00Z"
+  }
+]

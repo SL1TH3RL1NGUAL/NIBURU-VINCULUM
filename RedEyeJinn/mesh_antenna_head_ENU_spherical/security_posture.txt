@@ -1,0 +1,2 @@
+User-space only. No RF control. Read-only telemetry logging in ENU + spherical metaphor.
+M2M/IoT mesh: modeled as near-field neighborhood around node origin.

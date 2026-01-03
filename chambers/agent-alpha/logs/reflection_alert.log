@@ -1,0 +1,19 @@
+[2025-12-27T01:23:20-06:00] === DIGITAL TWIN REFLECTION ALERT MODE ACTIVATED ===
+[2025-12-27T01:23:20-06:00] Collecting Wi-Fi environment...
+Termux:API is not yet available on Google Play - see https://github.com/termux-play-store/termux-apps/issues/29 for updates
+[2025-12-27T01:23:22-06:00] Scanning LAN for active hosts...
+Starting Nmap 7.98 ( https://nmap.org ) at 2025-12-27 01:23 -0600
+Stats: 0:00:11 elapsed; 0 hosts completed (0 up), 256 undergoing Ping Scan
+Ping Scan Timing: About 10.74% done; ETC: 01:25 (0:01:31 remaining)
+Stats: 0:00:12 elapsed; 0 hosts completed (0 up), 256 undergoing Ping Scan
+Ping Scan Timing: About 11.72% done; ETC: 01:25 (0:01:30 remaining)
+Stats: 0:01:08 elapsed; 0 hosts completed (0 up), 256 undergoing Ping Scan
+Ping Scan Timing: About 66.41% done; ETC: 01:25 (0:00:34 remaining)
+Stats: 0:01:09 elapsed; 0 hosts completed (0 up), 256 undergoing Ping Scan
+Ping Scan Timing: About 67.38% done; ETC: 01:25 (0:00:33 remaining)
+Nmap done: 256 IP addresses (0 hosts up) scanned in 104.47 seconds
+[2025-12-27T01:25:06-06:00] Checking local open ports...
+Netid State Recv-Q Send-Q Local Address:Port Peer Address:Port
+[2025-12-27T01:25:06-06:00] Attempting BLE scan...
+[2025-12-27T01:25:06-06:00] BLE scan unavailable
+[2025-12-27T01:25:06-06:00] Reflection alert snapshot complete

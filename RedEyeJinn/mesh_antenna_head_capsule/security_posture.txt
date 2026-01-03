@@ -1,0 +1,1 @@
+No privileged access. User-space only. Safe logging mode.
